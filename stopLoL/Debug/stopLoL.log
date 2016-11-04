@@ -1,0 +1,5 @@
+﻿  stopLoL.cpp
+c:\users\player\documents\visual studio 2015\projects\stoplol\stoplol\stoplol.cpp(14): warning C4005: '_CRT_SECURE_NO_WARNINGS': macro redefinition
+  c:\users\player\documents\visual studio 2015\projects\stoplol\stoplol\stoplol.cpp(14): note: command-line arguments:  see previous definition of '_CRT_SECURE_NO_WARNINGS'
+  stopLoL.vcxproj -> C:\Users\player\Documents\Visual Studio 2015\Projects\stopLoL\Debug\stopLoL.exe
+  stopLoL.vcxproj -> C:\Users\player\Documents\Visual Studio 2015\Projects\stopLoL\Debug\stopLoL.pdb (Full PDB)
