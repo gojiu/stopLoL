@@ -2,7 +2,7 @@
 StopLoL is a little program I made to prevent League of Legends from running when a number of games per day is reached.
 This is a visual studio project, if you want to compile it, you will have to add _CRT_SECURE_NO_WARNING to your preprocessor options, here is a guide : http://stackoverflow.com/questions/16883037/remove-secure-warnings-crt-secure-no-warnings-from-projects-by-default-in-vis
 
-# To-do things
+# To-do list
 -Improve the numGames() function since it depends on log files and it can be easely bypassed by deleting log files.
 Here is more informations about games log files : https://support.riotgames.com/hc/fr/articles/201752674-Logs-r%C3%A9seau-syst%C3%A8me-et-League-of-Legends
 
