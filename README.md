@@ -6,6 +6,10 @@ This is a visual studio project, if you want to compile it, you will have to add
 -Improve the numGames() function since it depends on log files and it can be easely bypassed by deleting log files.
 Here is more informations about games log files : https://support.riotgames.com/hc/fr/articles/201752674-Logs-r%C3%A9seau-syst%C3%A8me-et-League-of-Legends
 
+-Make an installer.
+
+-Make a GUI.
+
 -Do not use  "using namespace std;", I got lazy there but you should use the std:: prefix.
 
 -Improve the way I handled strings and convertion ( converting wchar_t to strings so it's easier to manipulate).
